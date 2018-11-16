@@ -1,0 +1,6 @@
+#ifndef GENERATIONCODE_H_INCLUDED
+#define GENERATIONCODE_H_INCLUDED
+
+
+void write(int a);
+#endif // GENERATIONCODE_H_INCLUDED

@@ -1,0 +1,1 @@
+void coeur(int bpm);
